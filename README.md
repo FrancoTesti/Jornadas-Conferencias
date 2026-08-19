@@ -10,3 +10,4 @@ Este repositorio contiene ejercicios de modelado de software orientados a objeto
 
 ## Proyectos Analizados:
 * **Gestión de Jornadas Universitarias:** Asignación de salones, control estricto de cupos y validación lógica de superposición de horarios.
+ 
