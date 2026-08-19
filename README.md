@@ -9,5 +9,5 @@ Este repositorio contiene ejercicios de modelado de software orientados a objeto
 * Gestión de colecciones, persistencia de datos y patrón DAO.
 
 ## Proyectos Analizados:
-* **Gestión de Jornadas Universitarias:** Asignación de salones, control estricto de cupos y validación lógica de superposición de horarios.
+* **Gestión de Jornadas Universitarias:** Asignación de salones, control estricto de cupos y validación lógica de superposición de horarios
  
